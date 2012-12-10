@@ -1,0 +1,19 @@
+/**
+TODO: Walk through Files and check for Header Commment
+TODO: Walk through Files and check for correct usage of Constants
+TODO: Form CheckboxList
+TODO: Form File Element
+TODO: Ajax Validation for CW_Forms
+TODO: Logger Class finishen
+TODO: Write Function Documentation 
+TODO: *.view.php-Files for Form Elements
+TODO: Coding Conventions
+TODO: Route Caching
+File Upload
+orderid support datagrid
+paramsset controllers
+**/
+
+
+KNOWN BUGS:
+- FIREPHP is causing troubles with the Session handler Integration Check
