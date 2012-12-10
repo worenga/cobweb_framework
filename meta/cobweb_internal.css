@@ -1,0 +1,45 @@
+@CHARSET "ISO-8859-1";+
+BODY{
+    background-color:#fff;
+}
+.alert {
+    background: #fff6bf 15px center no-repeat;
+    text-align: left;
+    padding: 5px 20px 5px 45px;
+    border-top: 2px solid #ffd324;
+    border-bottom: 2px solid #ffd324;
+    }
+.welcome_wrapper{
+    margin-left:auto;
+    margin-right:auto;
+    padding:0;
+    width:960px;
+    color:#000;
+    font-family:"Lucida Grande",Arial,Helvetica,sans-serif;
+    font-size:12px;
+}
+.welcome_wrapper H1{
+    font-size:14px;
+    font-weight:bold;
+    color:#136415;
+}
+.welcome_wrapper P,.welcome_wrapper UL,.welcome_wrapper LI{
+    font-size:12px;
+    color:#5F5F5F;
+    list-style-type:square;
+}
+.welcome_wrapper .logo{
+    text-align:center;
+    margin:15px;
+}
+.welcome_wrapper SPAN.code{
+    background-color:#5F5F5F;
+    font-family:"Consolas",Courier;
+    color:#fff;
+}
+.welcome_wrapper SPAN.passed{
+    color: #446415;
+}
+.welcome_wrapper SPAN.failed{
+    color: #FF0F19;
+}
