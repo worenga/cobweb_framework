@@ -1,7 +1,12 @@
 CobWeb Framework
 ================
+#What is this?
+this is a fraemwork i wrote for myself for an old project,
+its not ment to be used in production, but more for me like a reference.
 
-#Old Framework sources.. this is an experimental framework
+Old Framework sources.. this is an experimental framework
+
+#License
 
 Copyright (c) 2009, Benedikt Wolters
 
