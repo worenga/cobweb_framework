@@ -1,9 +1,9 @@
 CobWeb Framework
 ================
 
-** Old Framework sources.. this is an experimental framework
+#Old Framework sources.. this is an experimental framework
 
-Copyright (c) 2009, Benedikt Wolters
+##Copyright (c) 2009, Benedikt Wolters
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
