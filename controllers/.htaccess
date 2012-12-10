@@ -1,5 +1,4 @@
 Options -Indexes
 
-#no access to the cache dir!
 order deny,allow
 DENY  from all
